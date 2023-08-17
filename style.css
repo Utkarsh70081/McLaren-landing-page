@@ -72,7 +72,7 @@ header .menu.active{
     position: relative;
     height: 35px;
     width: 35px;
-    background: url(/images/close-line.png) no-repeat;
+    background: url(images/close-line.png) no-repeat;
     background-size: 35px;
     background-position: center;
     filter: invert(1);
