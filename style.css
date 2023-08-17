@@ -62,7 +62,7 @@ header .menu{
     position: relative;
     height: 30px;
     width: 30px;
-    background: url(/images/menu-3-fill.png) no-repeat;
+    background: url(images/menu-3-fill.png) no-repeat;
     background-size: 30px;
     background-position: center;
     filter: invert(1);
