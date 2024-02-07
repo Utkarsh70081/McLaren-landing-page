@@ -628,6 +628,10 @@ header .menu.active{
     border-radius: 10px;
     object-fit: cover;
     object-position: center;
+
+/*     TEMPORARY */
+    height:150px;
+    width:140px;
 }
 
 
